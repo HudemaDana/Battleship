@@ -1,4 +1,5 @@
-# Requirement: It should employ a strategy when making its moves in order to attempt to win the game and provide an entertaining opponent for the human player. Minimally, the computer player should move to win the game whenever possible and should block the human player’s attempts at 1-move victory, whenever possible.
+# Requirement
+It should employ a strategy when making its moves in order to attempt to win the game and provide an entertaining opponent for the human player. Minimally, the computer player should move to win the game whenever possible and should block the human player’s attempts at 1-move victory, whenever possible.
 
 # Battleship - board game
 The game is played on four grids, two for each player. The grids are typically square – usually 10×10 – and the individual squares in the grid are identified by letter and number.On one grid the player arranges ships and records the shots by the opponent. On the other grid, the player records their own shots.
