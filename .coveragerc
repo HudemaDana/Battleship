@@ -1,5 +1,0 @@
-[report]
-omit = battleship/__main__.py,
-exclude_lines =
-    nocover
-show_missing = 1
